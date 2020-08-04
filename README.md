@@ -25,6 +25,7 @@
 #### Data Engineering:
 `Flink`, `ELK`, `Kinesis`, `ECS`, `Cassandra`, `DynamoDB`, `SQS`, `SNS`, `S3`, `EFS`.
 <br>
+<img align="left" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/headers/aws.svg"/>
 #### AWS:
 `Cognito`, `API Gateway`, `VPC`, `IAM`, `Appsync`, `Secrets Manager`, `EC2`, `ALB`, `Lambda`.
 
@@ -44,3 +45,4 @@
 [spoj]: https://www.spoj.com/users/xvamp/
 [hackerrank]: https://www.hackerrank.com/xvamp
 [codechef]: https://www.codechef.com/users/xvamp999
+
