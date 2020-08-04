@@ -18,13 +18,16 @@
 [<img align="left" alt="Arjun SK | Twitter" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/social/twitter.svg"/>][twitter]
 [<img align="left" alt="Arjun SK | 10FastFingers" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/social/typing.svg"/>][typing]
 <br>
-<br>
-#### Backend Stacks:
+### Stacks:
+
+#### Backend:
 `Java 8`, `Spring Boot`, `JMS`, `Redis`, `Drools`.
 <br>
 #### Data Engineering:
 `Flink`, `ELK`, `Kinesis`, `ECS`, `Cassandra`, `DynamoDB`, `SQS`, `SNS`, `S3`, `EFS`.
 <br>
+#### AWS:
+`Cognito`, `API Gateway`, `VPC`, `IAM`, `Appsync`, `Secrets Manager`, `EC2`, `ALB`, `Lambda`.
 #### AWS:
 `Cognito`, `API Gateway`, `VPC`, `IAM`, `Appsync`, `Secrets Manager`, `EC2`, `ALB`, `Lambda`.
 
