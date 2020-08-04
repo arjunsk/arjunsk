@@ -3,7 +3,7 @@
 [<img align="left" alt="Arjun SK | Stack Overflow" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="Arjun SK | Github" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/github.svg"/>][github]
 [<img align="left" alt="Arjun SK | Blog" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/website.svg"/>][website]
-[<img align="left" alt="Arjun SK | Freelancer" width="25px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/freelancer.svg"/>][freelancer]
+[<img align="left" alt="Arjun SK | Freelancer" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/freelancer.svg"/>][freelancer]
 [<img align="left" alt="Arjun SK | Playstore" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/googleplay.svg"/>][playstore]
 [<img align="left" alt="Arjun SK | Youtube" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/youtube.svg"/>][youtube]
 <br>
