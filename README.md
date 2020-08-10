@@ -18,7 +18,12 @@
 [<img align="left" alt="Arjun SK | Twitter" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/social/twitter.svg"/>][twitter]
 [<img align="left" alt="Arjun SK | 10FastFingers" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/social/typing.svg"/>][typing]
 <br>
----
+
+<details>
+<summary>
+  Read More
+</summary>
+
 #### Backend:
 `Java 8`, `Spring Boot`, `JMS`, `Redis`, `Drools`.
 <br>
@@ -27,6 +32,8 @@
 <br>
 #### AWS:
 `Cognito`, `API Gateway`, `VPC`, `IAM`, `Appsync`, `Secrets Manager`, `EC2`, `ALB`, `Lambda`.
+
+</details>
 
 [github]: https://github.com/arjunsk
 [freelancer]: http://freelancer.com/u/arjunsk15.html
