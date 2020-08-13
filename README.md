@@ -33,6 +33,8 @@
 #### AWS:
 `Cognito`, `API Gateway`, `VPC`, `IAM`, `Appsync`, `Secrets Manager`, `EC2`, `ALB`, `Lambda`.
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arjunsk.visitor-badge)
+
 </details>
 
 [github]: https://github.com/arjunsk
