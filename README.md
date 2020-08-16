@@ -1,20 +1,20 @@
-### Hey 👋🏽, I'm Arjun SK! 
+## Hey 👋🏽, I'm Arjun SK! 
 
-Cooking🥣 ideas with code 💻
+I Cook🥣 ideas with code💻!
 
-#### My cooking ingredients
+### My cooking ingredients
 
-##### ⇅ Backend:
+#### ⇅ Backend:
 `Java 8`, `Spring Boot`, `JMS`, `Redis`, `Drools`.
 <br>
-##### 🚀 Data Engineering:
+#### 🚀 Data Engineering:
 `Flink`, `ELK`, `Kinesis`, `ECS`, `Cassandra`, `DynamoDB`, `SQS`, `SNS`, `S3`, `EFS`.
 <br>
-##### 🌧 AWS:
+#### 🌧 AWS:
 `Cognito`, `API Gateway`, `VPC`, `IAM`, `Appsync`, `Secrets Manager`, `EC2`, `ALB`, `Lambda`.
 <br>
 
-#### My kitchens
+### My kitchens
 
 #### Developer:
 [<img align="left" alt="Arjun SK | Medium" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/medium.svg"/>][medium]
@@ -25,13 +25,13 @@ Cooking🥣 ideas with code 💻
 [<img align="left" alt="Arjun SK | Playstore" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/googleplay.svg"/>][playstore]
 [<img align="left" alt="Arjun SK | Youtube" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/youtube.svg"/>][youtube]
 <br>
-##### Competitive:
+#### Competitive:
 [<img align="left" alt="Arjun SK | Codechef" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/competitive/codechef.svg"/>][codechef]
 [<img align="left" alt="Arjun SK | Hackerrank" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/competitive/hackerrank.svg"/>][hackerrank]
 [<img align="left" alt="Arjun SK | Hackerearth" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/competitive/hackerearth.svg"/>][hackerearth]
 [<img align="left" alt="Arjun SK | SPOJ" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/competitive/spoj.svg"/>][spoj]
 <br>
-##### Social:
+#### Social:
 [<img align="left" alt="Arjun SK | Linkedin" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/social/linkedin.svg"/>][linkedin]
 [<img align="left" alt="Arjun SK | Twitter" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/social/twitter.svg"/>][twitter]
 [<img align="left" alt="Arjun SK | 10FastFingers" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/social/typing.svg"/>][typing]
