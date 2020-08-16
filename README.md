@@ -2,18 +2,6 @@
 
 I Cook🥣 ideas with code💻!
 
-### My cooking ingredients ☟
-
-#### ⇅ Backend:
-`Java 8`, `Spring Boot`, `JMS`, `Redis`, `Drools`.
-<br>
-#### 🚀 Data Engineering:
-`Flink`, `ELK`, `Kinesis`, `ECS`, `Cassandra`, `DynamoDB`, `SQS`, `SNS`, `S3`, `EFS`.
-<br>
-#### 🌧 AWS:
-`Cognito`, `API Gateway`, `VPC`, `IAM`, `Appsync`, `Secrets Manager`, `EC2`, `ALB`, `Lambda`.
-<br>
-
 ### My Digital kitchens ☟
 
 #### Developer:
@@ -36,8 +24,19 @@ I Cook🥣 ideas with code💻!
 [<img align="left" alt="Arjun SK | Twitter" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/social/twitter.svg"/>][twitter]
 [<img align="left" alt="Arjun SK | 10FastFingers" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/social/typing.svg"/>][typing]
 <br>
-<br>
 
+### My cooking ingredients ☟
+
+#### ⇅ Backend:
+`Java 8`, `Spring Boot`, `JMS`, `Redis`, `Drools`.
+<br>
+#### 🚀 Data Engineering:
+`Flink`, `ELK`, `Kinesis`, `ECS`, `Cassandra`, `DynamoDB`, `SQS`, `SNS`, `S3`, `EFS`.
+<br>
+#### 🌧 AWS:
+`Cognito`, `API Gateway`, `VPC`, `IAM`, `Appsync`, `Secrets Manager`, `EC2`, `ALB`, `Lambda`.
+<br>
+<br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arjunsk.visitor-badge)
 
 
