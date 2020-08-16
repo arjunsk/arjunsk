@@ -1,4 +1,4 @@
-## Hey 👋🏽, I'm Arjun SK! 
+## Hey 👋, I'm Arjun SK! 
 
 > I cook🥣 ideas with code💻!
 
