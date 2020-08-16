@@ -2,7 +2,7 @@
 
 > I cook🥣 ideas with code💻!
 
-### My Digital kitchens ☟
+### My Digital Kitchens ☟
 
 #### Developer:
 [<img align="left" alt="Arjun SK | Medium" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/medium.svg"/>][medium]
@@ -13,7 +13,7 @@
 [<img align="left" alt="Arjun SK | Playstore" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/googleplay.svg"/>][playstore]
 [<img align="left" alt="Arjun SK | Youtube" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/youtube.svg"/>][youtube]
 <br>
-#### Competitive:
+#### Competitive Programing:
 [<img align="left" alt="Arjun SK | Codechef" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/competitive/codechef.svg"/>][codechef]
 [<img align="left" alt="Arjun SK | Hackerrank" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/competitive/hackerrank.svg"/>][hackerrank]
 [<img align="left" alt="Arjun SK | Hackerearth" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/competitive/hackerearth.svg"/>][hackerearth]
