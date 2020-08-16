@@ -27,8 +27,10 @@ I cook🥣 ideas with code💻!
 
 <details>
 <summary>
- My cooking ingredients ☟
+  Read More
 </summary>
+
+### My cooking ingredients ☟
 
 #### ⇅ Backend:
 `Java 8`, `Spring Boot`, `JMS`, `Redis`, `Drools`.
