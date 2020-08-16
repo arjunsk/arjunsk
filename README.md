@@ -1,6 +1,6 @@
 ## Hey 👋🏽, I'm Arjun SK! 
 
-I Cook🥣 ideas with code💻!
+I cook🥣 ideas with code💻!
 
 ### My Digital kitchens ☟
 
@@ -25,7 +25,10 @@ I Cook🥣 ideas with code💻!
 [<img align="left" alt="Arjun SK | 10FastFingers" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/social/typing.svg"/>][typing]
 <br>
 
-### My cooking ingredients ☟
+<details>
+<summary>
+ My cooking ingredients ☟
+</summary>
 
 #### ⇅ Backend:
 `Java 8`, `Spring Boot`, `JMS`, `Redis`, `Drools`.
@@ -38,7 +41,7 @@ I Cook🥣 ideas with code💻!
 <br>
 <br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arjunsk.visitor-badge)
-
+</details>
 
 [github]: https://github.com/arjunsk
 [freelancer]: http://freelancer.com/u/arjunsk15.html
