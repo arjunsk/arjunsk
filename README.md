@@ -23,14 +23,16 @@
 <summary>
   Read More
 </summary>
+  
+Cooking 🍲Ideas with Code! Ingredients ☟
 
-#### Backend:
+#### ⇅ Backend:
 `Java 8`, `Spring Boot`, `JMS`, `Redis`, `Drools`.
 <br>
-#### Data Engineering:
+#### 🚀 Data Engineering:
 `Flink`, `ELK`, `Kinesis`, `ECS`, `Cassandra`, `DynamoDB`, `SQS`, `SNS`, `S3`, `EFS`.
 <br>
-#### AWS:
+#### 🌧 AWS:
 `Cognito`, `API Gateway`, `VPC`, `IAM`, `Appsync`, `Secrets Manager`, `EC2`, `ALB`, `Lambda`.
 <br>
 
