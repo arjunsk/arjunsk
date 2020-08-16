@@ -2,7 +2,7 @@
 
 I Cook🥣 ideas with code💻!
 
-### My cooking ingredients
+### My cooking ingredients ☟
 
 #### ⇅ Backend:
 `Java 8`, `Spring Boot`, `JMS`, `Redis`, `Drools`.
@@ -14,7 +14,7 @@ I Cook🥣 ideas with code💻!
 `Cognito`, `API Gateway`, `VPC`, `IAM`, `Appsync`, `Secrets Manager`, `EC2`, `ALB`, `Lambda`.
 <br>
 
-### My kitchens
+### My Digital kitchens ☟
 
 #### Developer:
 [<img align="left" alt="Arjun SK | Medium" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/medium.svg"/>][medium]
