@@ -23,10 +23,6 @@
 <summary>
   Read More
 </summary>
-  
-Cooking 🍲Ideas with Code! 
-
-### Ingredients ☟
 
 #### ⇅ Backend:
 `Java 8`, `Spring Boot`, `JMS`, `Redis`, `Drools`.
