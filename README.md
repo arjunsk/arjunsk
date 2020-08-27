@@ -30,7 +30,7 @@
   Read More
 </summary>
 
-### My cooking ingredients ☟
+### My Ingredients ☟
 
 #### ⇅ Backend:
 `Java 8`, `Spring Boot`, `JMS`, `Redis`, `Drools`.
