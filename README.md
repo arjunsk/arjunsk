@@ -11,7 +11,7 @@
 
 <tr>
 
-<td>
+<td style="width:70%">
 <b>Developer</b>
 <br>
 <p>
