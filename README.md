@@ -5,13 +5,13 @@
 <table>
 
 <tr>
-<th>My Digital Kitchens ☟</th>
-<th>Ingredients</th>
+<th style="width:50%">My Digital Kitchens ☟</th>
+<th style="width:50%">Ingredients</th>
 </tr>
 
 <tr>
 
-<td style="width:70%">
+<td>
 <b>Developer</b>
 <br>
 <p>
