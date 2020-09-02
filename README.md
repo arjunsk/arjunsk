@@ -51,7 +51,7 @@
 [stackoverflow]: https://stackoverflow.com/users/1609570/arjun-sk?tab=profile
 [medium]: https://medium.com/@arjunsk
 [website]: http://www.arjunsk.com
-[youtube]: https://www.youtube.com/user/arjunsk15/
+[youtube]: https://www.youtube.com/c/ArjunSK
 
 [linkedin]: https://www.linkedin.com/in/arjunsk15
 [twitter]: https://twitter.com/arjunsk15
