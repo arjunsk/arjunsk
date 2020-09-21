@@ -8,10 +8,11 @@
 [<img align="left" alt="Arjun SK | Medium" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/medium.svg"/>][medium]
 [<img align="left" alt="Arjun SK | Stack Overflow" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="Arjun SK | Github" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/github.svg"/>][github]
-[<img align="left" alt="Arjun SK | Blog" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/website.svg"/>][website]
+[<img align="left" alt="Arjun SK | DevPost" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/devpost.svg"/>][devpost]
 [<img align="left" alt="Arjun SK | Freelancer" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/freelancer.svg"/>][freelancer]
 [<img align="left" alt="Arjun SK | Playstore" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/googleplay.svg"/>][playstore]
 [<img align="left" alt="Arjun SK | Youtube" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/youtube.svg"/>][youtube]
+[<img align="left" alt="Arjun SK | Blog" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/website.svg"/>][website]
 <br>
 #### Competitive Programing:
 [<img align="left" alt="Arjun SK | Codechef" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/competitive/codechef.svg"/>][codechef]
@@ -52,6 +53,7 @@
 [medium]: https://medium.com/@arjunsk
 [website]: http://www.arjunsk.com
 [youtube]: https://www.youtube.com/c/ArjunSK
+[devpost]: https://devpost.com/ArjunSK
 
 [linkedin]: https://www.linkedin.com/in/arjunsk15
 [twitter]: https://twitter.com/arjunsk15
