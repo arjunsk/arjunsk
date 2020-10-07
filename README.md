@@ -10,7 +10,7 @@
 [<img align="left" alt="Arjun SK | Github" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/github.svg"/>][github]
 [<img align="left" alt="Arjun SK | DevPost" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/devpost.svg"/>][devpost]
 [<img align="left" alt="Arjun SK | Freelancer" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/freelancer.svg"/>][freelancer]
-[<img align="left" alt="Arjun SK | IEEE" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/ieee.svg"/>][ieee]
+[<img align="left" alt="Arjun SK | Google Scholar" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/google-scholar.svg"/>][google-scholar]
 [<img align="left" alt="Arjun SK | Playstore" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/googleplay.svg"/>][playstore]
 [<img align="left" alt="Arjun SK | Youtube" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/youtube.svg"/>][youtube]
 [<img align="left" alt="Arjun SK | Blog" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/website.svg"/>][website]
@@ -53,7 +53,7 @@
 [stackoverflow]: https://stackoverflow.com/users/1609570/arjun-sk?tab=profile
 [medium]: https://medium.com/@arjunsk
 [website]: http://www.arjunsk.com
-[ieee]: https://ieeexplore.ieee.org/document/8126007
+[google-scholar]: https://scholar.google.com/citations?hl=en&user=uOD-gzcAAAAJ
 [youtube]: https://www.youtube.com/c/ArjunSK
 [devpost]: https://devpost.com/ArjunSK
 
