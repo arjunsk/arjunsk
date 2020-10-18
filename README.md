@@ -12,6 +12,7 @@
 [<img align="left" alt="Arjun SK | Freelancer" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/freelancer.svg"/>][freelancer]
 [<img align="left" alt="Arjun SK | Google Scholar" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/google-scholar.svg"/>][google-scholar]
 [<img align="left" alt="Arjun SK | Playstore" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/googleplay.svg"/>][playstore]
+[<img align="left" alt="Arjun SK | SpeakerDeck" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/speakerdeck.svg"/>][speakerdeck]
 [<img align="left" alt="Arjun SK | Youtube" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/youtube.svg"/>][youtube]
 [<img align="left" alt="Arjun SK | Blog" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/website.svg"/>][website]
 <br>
@@ -56,6 +57,7 @@
 [google-scholar]: https://scholar.google.com/citations?hl=en&user=uOD-gzcAAAAJ
 [youtube]: https://www.youtube.com/c/ArjunSK
 [devpost]: https://devpost.com/ArjunSK
+[speakerdeck]: https://speakerdeck.com/arjunsk
 
 [linkedin]: https://www.linkedin.com/in/arjunsk15
 [twitter]: https://twitter.com/arjunsk15
