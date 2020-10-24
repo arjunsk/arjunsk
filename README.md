@@ -25,6 +25,7 @@
 #### Social:
 [<img align="left" alt="Arjun SK | Linkedin" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/social/linkedin.svg"/>][linkedin]
 [<img align="left" alt="Arjun SK | Twitter" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/social/twitter.svg"/>][twitter]
+[<img align="left" alt="Arjun SK | Ketto" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/social/ketto.svg"/>][ketto]
 [<img align="left" alt="Arjun SK | 10FastFingers" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/social/typing.svg"/>][typing]
 <br>
 
@@ -62,6 +63,7 @@
 [linkedin]: https://www.linkedin.com/in/arjunsk15
 [twitter]: https://twitter.com/arjunsk15
 [typing]: https://10fastfingers.com/user/665338/
+[ketto]: https://www.ketto.org/individual/individual_details.php?fmd_id=1387354
 
 [hackerearth]: https://www.hackerearth.com/@arjunsk
 [spoj]: https://www.spoj.com/users/xvamp/
