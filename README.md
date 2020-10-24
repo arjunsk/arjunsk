@@ -25,7 +25,7 @@
 #### Social:
 [<img align="left" alt="Arjun SK | Linkedin" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/social/linkedin.svg"/>][linkedin]
 [<img align="left" alt="Arjun SK | Twitter" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/social/twitter.svg"/>][twitter]
-[<img align="left" alt="Arjun SK | Ketto" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/social/ketto.svg"/>][ketto]
+[<img align="left" alt="Arjun SK | Ketto" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/social/charity.svg"/>][ketto]
 [<img align="left" alt="Arjun SK | 10FastFingers" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/social/typing.svg"/>][typing]
 <br>
 
