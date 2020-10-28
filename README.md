@@ -12,6 +12,7 @@
 [<img align="left" alt="Arjun SK | Freelancer" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/freelancer.svg"/>][freelancer]
 [<img align="left" alt="Arjun SK | Google Scholar" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/google-scholar.svg"/>][google-scholar]
 [<img align="left" alt="Arjun SK | Playstore" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/googleplay.svg"/>][playstore]
+[<img align="left" alt="Arjun SK | Ionic" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/ionic.svg"/>][ionic]
 [<img align="left" alt="Arjun SK | SlideShare" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/slideshare.svg"/>][slideshare]
 [<img align="left" alt="Arjun SK | Youtube" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/youtube.svg"/>][youtube]
 [<img align="left" alt="Arjun SK | Blog" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/website.svg"/>][website]
@@ -52,6 +53,7 @@
 [github]: https://github.com/arjunsk
 [freelancer]: http://freelancer.com/u/arjunsk15.html
 [playstore]: https://play.google.com/store/apps/dev?id=5133172363599577799
+[ionic]: https://market.ionicframework.com/user/208520
 [stackoverflow]: https://stackoverflow.com/users/1609570/arjun-sk?tab=profile
 [medium]: https://medium.com/@arjunsk
 [website]: http://www.arjunsk.com
