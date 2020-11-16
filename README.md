@@ -38,7 +38,7 @@
 ### My Ingredients ☟
 
 #### ⇅ Backend:
-`Java 8`, `Spring Boot`, `JMS`, `Redis`, `Drools`.
+`Java 8`, `Spring Boot`, `JMS`, `Redis`, `Drools`, `Camel`.
 <br>
 #### 🚀 Data Engineering:
 `Flink`, `ELK`, `Kinesis`, `ECS`, `Cassandra`, `DynamoDB`, `SQS`, `SNS`, `S3`, `EFS`.
