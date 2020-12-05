@@ -55,7 +55,7 @@
 [playstore]: https://play.google.com/store/apps/dev?id=5133172363599577799
 [ionic]: https://market.ionicframework.com/user/208520
 [stackoverflow]: https://stackoverflow.com/users/1609570/arjun-sk?tab=profile
-[medium]: https://medium.com/@arjunsk
+[medium]: https://arjunsk.medium.com/
 [website]: http://www.arjunsk.com
 [google-scholar]: https://scholar.google.com/citations?hl=en&user=uOD-gzcAAAAJ
 [youtube]: https://www.youtube.com/c/ArjunSK
