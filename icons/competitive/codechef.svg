@@ -2,7 +2,7 @@
   <style>
     @media (prefers-color-scheme: dark) {
       path {
-        fill: white;
+        fill: #FFF;
       }
     }
   </style>
