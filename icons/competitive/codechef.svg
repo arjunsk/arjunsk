@@ -3,7 +3,7 @@
     @media (prefers-color-scheme: dark) {
       svg{
         path{
-          fill: #ccc
+          fill: #FFF
         }
       }
     }
