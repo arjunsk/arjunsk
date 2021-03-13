@@ -18,7 +18,7 @@
 [<img align="left" alt="Arjun SK | Blog" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/website.svg"/>][website]
 <br>
 #### Competitive Programing:
-[<img align="left" alt="Arjun SK | Codechef" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/competitive/codechef.svg"/>][codechef]
+[<img align="left" alt="Arjun SK | Codechef" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/feature/dark-mode/icons/competitive/codechef.svg"/>][codechef]
 [<img align="left" alt="Arjun SK | Hackerrank" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/competitive/hackerrank.svg"/>][hackerrank]
 [<img align="left" alt="Arjun SK | Hackerearth" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/competitive/hackerearth.svg"/>][hackerearth]
 [<img align="left" alt="Arjun SK | SPOJ" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/competitive/spoj.svg"/>][spoj]
