@@ -5,29 +5,29 @@
 ### My Digital Kitchens ☟
 
 #### Developer:
-[<img align="left" alt="Arjun SK | Medium" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/medium.svg"/>][medium]
-[<img align="left" alt="Arjun SK | Stack Overflow" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="Arjun SK | Github" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/github.svg"/>][github]
-[<img align="left" alt="Arjun SK | DevPost" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/devpost.svg"/>][devpost]
-[<img align="left" alt="Arjun SK | Freelancer" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/freelancer.svg"/>][freelancer]
-[<img align="left" alt="Arjun SK | Google Scholar" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/google-scholar.svg"/>][google-scholar]
-[<img align="left" alt="Arjun SK | Playstore" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/googleplay.svg"/>][playstore]
-[<img align="left" alt="Arjun SK | Ionic" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/ionic.svg"/>][ionic]
-[<img align="left" alt="Arjun SK | SpeakerDeck" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/speakerdeck.svg"/>][speakerdeck]
-[<img align="left" alt="Arjun SK | Youtube" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/youtube.svg"/>][youtube]
-[<img align="left" alt="Arjun SK | Blog" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/dev/website.svg"/>][website]
+[<img align="left" alt="Arjun SK | Medium" width="22px" src="/icons/dev/medium.svg"/>][medium]
+[<img align="left" alt="Arjun SK | Stack Overflow" width="22px" src="/icons/dev/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="Arjun SK | Github" width="22px" src="/icons/dev/github.svg"/>][github]
+[<img align="left" alt="Arjun SK | DevPost" width="22px" src="/icons/dev/devpost.svg"/>][devpost]
+[<img align="left" alt="Arjun SK | Freelancer" width="22px" src="/icons/dev/freelancer.svg"/>][freelancer]
+[<img align="left" alt="Arjun SK | Google Scholar" width="22px" src="/icons/dev/google-scholar.svg"/>][google-scholar]
+[<img align="left" alt="Arjun SK | Playstore" width="22px" src="/icons/dev/googleplay.svg"/>][playstore]
+[<img align="left" alt="Arjun SK | Ionic" width="22px" src="/icons/dev/ionic.svg"/>][ionic]
+[<img align="left" alt="Arjun SK | SpeakerDeck" width="22px" src="/icons/dev/speakerdeck.svg"/>][speakerdeck]
+[<img align="left" alt="Arjun SK | Youtube" width="22px" src="/icons/dev/youtube.svg"/>][youtube]
+[<img align="left" alt="Arjun SK | Blog" width="22px" src="/icons/dev/website.svg"/>][website]
 <br>
 #### Competitive Programing:
-[<img align="left" alt="Arjun SK | Codechef" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/competitive/codechef.svg"/>][codechef]
-[<img align="left" alt="Arjun SK | Hackerrank" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/competitive/hackerrank.svg"/>][hackerrank]
-[<img align="left" alt="Arjun SK | Hackerearth" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/competitive/hackerearth.svg"/>][hackerearth]
-[<img align="left" alt="Arjun SK | SPOJ" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/competitive/spoj.svg"/>][spoj]
+[<img align="left" alt="Arjun SK | Codechef" width="22px" src="/icons/competitive/codechef.svg"/>][codechef]
+[<img align="left" alt="Arjun SK | Hackerrank" width="22px" src="/icons/competitive/hackerrank.svg"/>][hackerrank]
+[<img align="left" alt="Arjun SK | Hackerearth" width="22px" src="/icons/competitive/hackerearth.svg"/>][hackerearth]
+[<img align="left" alt="Arjun SK | SPOJ" width="22px" src="/icons/competitive/spoj.svg"/>][spoj]
 <br>
 #### Social:
-[<img align="left" alt="Arjun SK | Linkedin" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/social/linkedin.svg"/>][linkedin]
-[<img align="left" alt="Arjun SK | Twitter" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/social/twitter.svg"/>][twitter]
-<!-- [<img align="left" alt="Arjun SK | Ketto" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/social/charity.svg"/>][ketto] -->
-[<img align="left" alt="Arjun SK | 10FastFingers" width="22px" src="https://raw.githubusercontent.com/arjunsk/arjunsk/master/icons/social/typing.svg"/>][typing]
+[<img align="left" alt="Arjun SK | Linkedin" width="22px" src="/icons/social/linkedin.svg"/>][linkedin]
+[<img align="left" alt="Arjun SK | Twitter" width="22px" src="/icons/social/twitter.svg"/>][twitter]
+<!-- [<img align="left" alt="Arjun SK | Ketto" width="22px" src="/icons/social/charity.svg"/>][ketto] -->
+[<img align="left" alt="Arjun SK | 10FastFingers" width="22px" src="/icons/social/typing.svg"/>][typing]
 <br>
 
 <details>
