@@ -1,8 +1,6 @@
 ## Hey 👋, I'm Arjun SK! 
 
-```diff
-!Cooking ideas with code🖳!
-```
+> #### Cooking ideas with code🖳!
 
 ### My Digital Kitchens ☟
 
