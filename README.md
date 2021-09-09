@@ -35,7 +35,7 @@
   Read More
 </summary>
 
-### My Ingredients ☟
+### My Ingredients
 
 #### ⇅ Backend:
 `Java 8`, `Spring Boot`, `JMS`, `Redis`, `Drools`, `Camel`.
