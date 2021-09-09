@@ -1,8 +1,8 @@
-## Hey 👋, I'm Arjun SK! 
+## Hey 👋, I'm Arjun Sunil Kumar! 
 
 > #### Cooking ideas with code🚀!
 
-### My Digital Kitchens ☟
+### My Digital Kitchens
 
 #### Developer:
 [<img align="left" alt="Arjun SK | Medium" width="22px" src="/icons/dev/medium.svg"/>][medium]
