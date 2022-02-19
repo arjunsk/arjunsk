@@ -41,7 +41,7 @@
 `Java 8`, `Spring Boot`, `JMS`, `Redis`, `Drools`, `Camel`.
 <br>
 #### 🚀 Data Engineering:
-`Flink`, `Spark`, `ELK`, `Kinesis`, `ECS`, `Cassandra`, `DynamoDB`, `SQS`, `SNS`, `S3`, `EFS`.
+`Flink`, `Spark`, `ELK`, `Kinesis`, `Kafka`, `ECS`, `Cassandra`, `DynamoDB`, `SQS`, `SNS`, `S3`, `EFS`.
 <br>
 #### 🌧 AWS:
 `Cognito`, `API Gateway`, `VPC`, `IAM`, `Appsync`, `Secrets Manager`, `EC2`, `ALB`, `Lambda`.
