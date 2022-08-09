@@ -28,27 +28,7 @@
 [<img align="left" alt="Arjun SK | Twitter" width="22px" src="/icons/social/twitter.svg"/>][twitter]
 <!-- [<img align="left" alt="Arjun SK | Ketto" width="22px" src="/icons/social/charity.svg"/>][ketto] -->
 [<img align="left" alt="Arjun SK | 10FastFingers" width="22px" src="/icons/social/typing.svg"/>][typing]
-<br>
 
-<details>
-<summary>
-  Read More
-</summary>
-
-### My Ingredients
-
-#### ⇅ Backend:
-`Java 8`, `Spring Boot`, `JMS`, `Redis`, `Drools`, `Camel`.
-<br>
-#### 🚀 Data Engineering:
-`Flink`, `Spark`, `ELK`, `Kinesis`, `Kafka`, `ECS`, `Cassandra`, `DynamoDB`, `SQS`, `SNS`, `S3`, `EFS`.
-<br>
-#### 🌧 AWS:
-`Cognito`, `API Gateway`, `VPC`, `IAM`, `Appsync`, `Secrets Manager`, `EC2`, `ALB`, `Lambda`.
-<br>
-<br>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arjunsk.visitor-badge)
-</details>
 
 [github]: https://github.com/arjunsk
 [freelancer]: http://freelancer.com/u/arjunsk15.html
