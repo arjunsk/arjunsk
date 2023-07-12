@@ -1,4 +1,4 @@
-### 👋 &nbsp; Hi, I am arjun
+### 👋 &nbsp; Hi, I am Arjun
 
 💻 &nbsp; Interest: Storage Engines, Distributed Transaction
 
