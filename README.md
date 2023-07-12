@@ -1,8 +1,8 @@
 ### 👋 &nbsp; Hi, I am Arjun
 
 #### &nbsp; 💻 I am Interested in 
-- Storage Engines (LSM, BTree, Bitcask)
-- Distributed Transaction (2PC, Paxos, RAFT)
+- Storage Engines 
+- Distributed Transaction 
 
 #### &nbsp; 🍭 Recent projects I'm working on
 
@@ -23,7 +23,7 @@
 - [Database Design and Implementation](https://www.amazon.com/dp/3030338355/) -  Great for understanding embedded Java databases like Apache Derby
 
 #### ♟ &nbsp; Things I plan to work on
-- Tiny LSM (Target July 21st)
+- Tiny LSM
 - Skiplist
 - AVL Tree
 - Arena based Skiplist
