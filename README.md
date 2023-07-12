@@ -22,18 +22,4 @@
 - [Algorithms and Data Structures for Massive Datasets](https://www.amazon.com/Algorithms-Data-Structures-Massive-Datasets/dp/1617298034) - Great for learning about new data structures.
 - [Database Design and Implementation](https://www.amazon.com/dp/3030338355/) -  Great for understanding embedded Java databases like Apache Derby
 
-#### ♟ &nbsp; Things I plan to work on
-- Tiny LSM
-- Skiplist
-- AVL Tree
-- Arena based Skiplist
-- RB tree
-- Interval RB Tree
-- Radix Tree
-- ART
-- Bloom Filter
-- LFU
-- cuckoo hash
-- Splay trees
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arjunsk.visitor-badge)
