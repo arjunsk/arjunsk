@@ -2,8 +2,6 @@
 
 💻 &nbsp; Interest: Storage Engines, Distributed Transaction
 
-✒️ &nbsp; Blog：[Medium](https://medium.com/@arjunsk)
-
 #### &nbsp; 🍭 Recent projects I'm working on
 
 - [tiny-lsm](https://github.com/arjunsk/tiny-lsm) - A simple LSM tree database with snapshot isolation support
