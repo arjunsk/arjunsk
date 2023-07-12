@@ -1,6 +1,8 @@
 ### 👋 &nbsp; Hi, I am Arjun
 
-💻 &nbsp; Interest: Storage Engines, Distributed Transaction
+#### &nbsp; 💻 I am Interested in 
+- Storage Engines (LSM, BTree, Bitcask)
+- Distributed Transaction (2PC, Paxos, RAFT)
 
 #### &nbsp; 🍭 Recent projects I'm working on
 
