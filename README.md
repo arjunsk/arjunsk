@@ -2,7 +2,7 @@
 
 #### &nbsp; 💻 I am Interested in 
 - Storage Engines 
-- Distributed Transaction 
+- Distributed Systems 
 
 #### &nbsp; 🍭 Recent projects I'm working on
 
