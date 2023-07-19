@@ -17,7 +17,7 @@
 - [Build Tiny Compiler](https://medium.com/javarevisited/build-a-tiny-compiler-in-java-662f67a1ce85) - Lexer, Parser, Semantic analysis, ASM Code Generation 
 - [Spatial Partitioned RDD using KD Tree in Spark](https://medium.com/sys-base/spatial-partitioned-rdd-using-kd-tree-in-spark-102e0b53564b) - Spatial Partitioning, KD tree, Epsilon approximation
 
-#### 📗 &nbsp; Featured Books
+#### 📗 &nbsp; Featured Resources
 - [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/) - Good for learning more about Spanner 2PC etc.
 - [Algorithms and Data Structures for Massive Datasets](https://www.amazon.com/Algorithms-Data-Structures-Massive-Datasets/dp/1617298034) - Great for learning about new data structures.
 - [Database Design and Implementation](https://www.amazon.com/dp/3030338355/) -  Great for understanding embedded Java databases like Apache Derby
