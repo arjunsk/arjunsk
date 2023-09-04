@@ -6,7 +6,6 @@
 
 #### &nbsp; 🍭 Recent projects I'm working on
 
-- [srdb](https://github.com/arjunsk/srdb) - A simple LSM tree database with snapshot isolation support
 - [matrixone](https://github.com/arjunsk/matrixone) - A hyper-converged cloud native DBMS
 
 #### 📋 &nbsp; Recent papers I've read
