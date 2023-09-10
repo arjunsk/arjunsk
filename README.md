@@ -8,9 +8,9 @@
 
 - [matrixone](https://github.com/arjunsk/matrixone) - A hyper-converged cloud native DBMS
 
-#### &nbsp; 🚀 Interesting side projects
+#### &nbsp; 🚀 My interesting side projects
 - [colexec-db](https://github.com/arjunsk/colexecdb) - An educational vectorized execution engine written in Go
-- [tiny-db](https://github.com/arjunsk/tiny-db) - A Volcano model tiny database written in Java
+- [tiny-db](https://github.com/arjunsk/tiny-db) - A volcano model tiny database written in Java
 
 #### 📋 &nbsp; Recent papers I've read
 - [Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) - Distributed Transaction using True Time
@@ -20,9 +20,12 @@
 - [Build Tiny Compiler](https://medium.com/javarevisited/build-a-tiny-compiler-in-java-662f67a1ce85) - Lexer, Parser, Semantic analysis, ASM Code Generation 
 - [Spatial Partitioned RDD using KD Tree in Spark](https://medium.com/sys-base/spatial-partitioned-rdd-using-kd-tree-in-spark-102e0b53564b) - Spatial Partitioning, KD tree, Epsilon approximation
 
-#### 📗 &nbsp; Featured Resources
-- [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/) - Good for learning more about Spanner 2PC etc.
-- [Algorithms and Data Structures for Massive Datasets](https://www.amazon.com/Algorithms-Data-Structures-Massive-Datasets/dp/1617298034) - Great for learning about new data structures.
-- [Database Design and Implementation](https://www.amazon.com/dp/3030338355/) -  Great for understanding embedded Java databases like Apache Derby
+[//]: # (#### 📗 &nbsp; Featured Resources)
+
+[//]: # (- [Patterns of Distributed Systems]&#40;https://martinfowler.com/articles/patterns-of-distributed-systems/&#41; - Good for learning more about Spanner 2PC etc.)
+
+[//]: # (- [Algorithms and Data Structures for Massive Datasets]&#40;https://www.amazon.com/Algorithms-Data-Structures-Massive-Datasets/dp/1617298034&#41; - Great for learning about new data structures.)
+
+[//]: # (- [Database Design and Implementation]&#40;https://www.amazon.com/dp/3030338355/&#41; -  Great for understanding embedded Java databases like Apache Derby)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arjunsk.visitor-badge)
