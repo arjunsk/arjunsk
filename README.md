@@ -9,7 +9,7 @@
 - [matrixone](https://github.com/arjunsk/matrixone) - A hyper-converged cloud native DBMS
 
 #### &nbsp; 🚀 My interesting side projects
-- [colexec-db](https://github.com/arjunsk/colexecdb) - An educational vectorized execution engine written in Go
+- [colexec-db](https://github.com/arjunsk/colexec-db) - An educational vectorized execution engine written in Go
 - [tiny-db](https://github.com/arjunsk/tiny-db) - A volcano model tiny database written in Java
 
 #### 📋 &nbsp; Recent papers I've read
