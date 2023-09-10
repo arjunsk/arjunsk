@@ -7,7 +7,10 @@
 #### &nbsp; 🍭 Recent projects I'm working on
 
 - [matrixone](https://github.com/arjunsk/matrixone) - A hyper-converged cloud native DBMS
-- [colexecdb](https://github.com/arjunsk/colexecdb) - An educational vectorized execution engine
+
+#### &nbsp; 🍭 Interesting projects
+- [colexec-db](https://github.com/arjunsk/colexecdb) - An educational vectorized execution engine
+- [tiny-db](https://github.com/arjunsk/tiny-db) - A Volcano model tiny database written in Java
 
 #### 📋 &nbsp; Recent papers I've read
 - [Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) - Distributed Transaction using True Time
