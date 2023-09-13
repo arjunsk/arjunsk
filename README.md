@@ -7,7 +7,7 @@
 #### &nbsp; 🍭 Recent projects I'm working on
 
 - [matrixone](https://github.com/arjunsk/matrixone) - A hyper-converged cloud native DBMS
-- [col-fs](https://github.com/arjunsk/col-fs) - columnar file service
+- [col-lsm-engine](https://github.com/arjunsk/col-lsm-engine) - columnar lsm engine
 
 #### &nbsp; 🚀 My interesting side projects
 - [colexec-db](https://github.com/arjunsk/colexec-db) - An educational vectorized execution engine written in Go
