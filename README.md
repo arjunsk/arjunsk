@@ -5,13 +5,13 @@
 - Distributed Systems 
 
 #### &nbsp; 🍭 Recent projects I'm working on
-- [matrixone](https://github.com/arjunsk/matrixone) - A hyper-converged cloud native DBMS
-- [go-kmeans](https://github.com/arjunsk/go-kmeans) - Go library implementing Kmeans, Kmeans++, Elkan's Kmeans algorithm
-- [col-lsm](https://github.com/arjunsk/col-lsm) - columnar LSM engine
+- [matrixorigin/matrixone](https://github.com/arjunsk/matrixone) - A hyper-converged cloud native DBMS
+- [arjunsk/kmeans](https://github.com/arjunsk/kmeans) - Go library implementing Kmeans, Kmeans++, Elkan's Kmeans algorithm
+- [arjunsk/col-lsm](https://github.com/arjunsk/col-lsm) - columnar LSM engine
 
 #### &nbsp; 🚀 My interesting side projects
-- [colexec-db](https://github.com/arjunsk/colexec-db) - An educational vectorized execution engine written in Go
-- [tiny-db](https://github.com/arjunsk/tiny-db) - A volcano model tiny database written in Java
+- [arjunsk/colexec-db](https://github.com/arjunsk/colexec-db) - An educational vectorized execution engine written in Go
+- [arjunsk/tiny-db](https://github.com/arjunsk/tiny-db) - A volcano model tiny database written in Java
 
 #### 📋 &nbsp; Recent papers I've read
 - [Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) - Distributed Transaction using True Time
