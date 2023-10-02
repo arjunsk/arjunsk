@@ -5,9 +5,9 @@
 - Distributed Systems 
 
 #### &nbsp; 🍭 Recent projects I'm working on
-
 - [matrixone](https://github.com/arjunsk/matrixone) - A hyper-converged cloud native DBMS
-- [col-lsm](https://github.com/arjunsk/col-lsm) - columnar lsm engine
+- [go-kmeans](https://github.com/arjunsk/go-kmeans) - Go library implementing Kmeans, Kmeans++, Elkan's Kmeans algorithm
+- [col-lsm](https://github.com/arjunsk/col-lsm) - columnar LSM engine
 
 #### &nbsp; 🚀 My interesting side projects
 - [colexec-db](https://github.com/arjunsk/colexec-db) - An educational vectorized execution engine written in Go
