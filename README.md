@@ -11,7 +11,7 @@
 #### &nbsp; 📚 Go Libraries
 - [arjunsk/kmeans](https://github.com/arjunsk/kmeans) - Go library implementing Kmeans, Kmeans++, Elkan's Kmeans algorithm
 - [arjunsk/lotsaa](https://github.com/arjunsk/lotsaa) - Go library for executing lots of operations spread over any number of threads for a fixed duration/op-count.
-- [arjunsk/intervalst](https://github.com/arjunsk/intervalst) - Go implementation of Interval Search Tree extracted from [etcd](https://github.com/etcd-io/etcd/blob/main/pkg/adt/interval_tree.go).
+- [arjunsk/intervalst](https://github.com/arjunsk/intervalst) - Go implementation of Interval Search Tree.
 
 [//]: # (#### &nbsp; 📋 Recent papers I've read)
 
