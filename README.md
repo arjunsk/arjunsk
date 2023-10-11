@@ -13,11 +13,6 @@
 - [arjunsk/lotsaa](https://github.com/arjunsk/lotsaa) - Go library for executing lots of operations spread over any number of threads for a fixed duration/op-count.
 - [arjunsk/intervalst](https://github.com/arjunsk/intervalst) - Go implementation of Interval Search Tree extracted from [etcd](https://github.com/etcd-io/etcd/blob/main/pkg/adt/interval_tree.go).
 
-
-#### &nbsp; 🚀 Tiny Projects
-- [teeny-tiny-systems/colexec-db](https://github.com/teeny-tiny-systems/colexec-db) - An educational vectorized execution engine written in Go
-- [teeny-tiny-systems/tiny-db](https://github.com/teeny-tiny-systems/tiny-db) - A volcano model tiny database written in Java
-
 #### &nbsp; 📋 Recent papers I've read
 - [Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) - Distributed Transaction using True Time
 
