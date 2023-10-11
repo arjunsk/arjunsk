@@ -13,8 +13,9 @@
 - [arjunsk/lotsaa](https://github.com/arjunsk/lotsaa) - Go library for executing lots of operations spread over any number of threads for a fixed duration/op-count.
 - [arjunsk/intervalst](https://github.com/arjunsk/intervalst) - Go implementation of Interval Search Tree extracted from [etcd](https://github.com/etcd-io/etcd/blob/main/pkg/adt/interval_tree.go).
 
-#### &nbsp; 📋 Recent papers I've read
-- [Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) - Distributed Transaction using True Time
+[//]: # (#### &nbsp; 📋 Recent papers I've read)
+
+[//]: # (- [Spanner]&#40;https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf&#41; - Distributed Transaction using True Time)
 
 #### &nbsp; ✏️ Recent Blog posts
 - [Build Tiny DB](https://medium.com/javarevisited/build-a-tiny-database-in-java-ca6d3f06e115) - Parser, Planner, Storage Engine, Calcite, ANTLR
