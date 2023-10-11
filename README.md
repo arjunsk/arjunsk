@@ -8,9 +8,11 @@
 - [matrixorigin/matrixone](https://github.com/arjunsk/matrixone) - A hyper-converged cloud native DBMS
 - [arjunsk/col-lsm](https://github.com/arjunsk/col-lsm) - columnar LSM engine
 
-#### &nbsp; 📚 Featured Libraries
+#### &nbsp; 📚 Go Libraries
 - [arjunsk/kmeans](https://github.com/arjunsk/kmeans) - Go library implementing Kmeans, Kmeans++, Elkan's Kmeans algorithm
 - [arjunsk/lotsaa](https://github.com/arjunsk/lotsaa) - Go library for executing lots of operations spread over any number of threads for a fixed duration/op-count.
+- [arjunsk/intervalst](https://github.com/arjunsk/intervalst) - Go implementation of Interval Search Tree extracted from [etcd](https://github.com/etcd-io/etcd/blob/main/pkg/adt/interval_tree.go).
+
 
 #### &nbsp; 🚀 Tiny Projects
 - [teeny-tiny-systems/colexec-db](https://github.com/teeny-tiny-systems/colexec-db) - An educational vectorized execution engine written in Go
