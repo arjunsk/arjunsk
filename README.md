@@ -8,7 +8,7 @@ I am Interested in `Storage Engines`, `Txn` & `Distributed Systems`.
 
 #### &nbsp; 📚 Go Libraries
 - [arjunsk/kmeans](https://github.com/arjunsk/kmeans) - Go library implementing Kmeans, Kmeans++, Elkan's Kmeans algorithm
-- [arjunsk/lotsaa](https://github.com/arjunsk/lotsaa) - Go library for executing lots of operations spread over any number of threads for a fixed duration/op-count.
+- [arjunsk/lotsaa](https://github.com/tiny-modules/lotsaa) - Go library for executing lots of operations spread over any number of threads for a fixed duration/op-count.
 - [arjunsk/intervalst](https://github.com/arjunsk/intervalst) - Go implementation of Interval Search Tree.
 
 [//]: # (#### &nbsp; 📋 Recent papers I've read)
