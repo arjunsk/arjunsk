@@ -1,6 +1,6 @@
 ### 👋 &nbsp; Hi, I am Arjun
 
-I am Interested in `Storage Engines`, `Txn` & `Distributed Systems`. 
+I am currently learning about `Planners`.
 
 #### &nbsp; 🍭 Recent projects I'm working on
 - [matrixorigin/matrixone](https://github.com/arjunsk/matrixone) - A hyper-converged cloud native DBMS
