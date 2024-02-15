@@ -6,7 +6,7 @@ I am currently learning about `Txn`.
 - [matrixorigin/matrixone](https://github.com/arjunsk/matrixone) - A hyper-converged cloud native DBMS
 
 #### &nbsp; 📚 Go Libraries
-- [arjunsk/kmeans](https://github.com/arjunsk/kmeans) - Go library implementing Kmeans, Kmeans++, Elkan's Kmeans algorithm
+- [arjunsk/kmeans](https://github.com/arjunsk/kmeans) - Go library implementing Elkan's Kmeans algorithm
 - [arjunsk/lotsaa](https://github.com/tiny-modules/lotsaa) - Go library for executing lots of operations spread over any number of threads for a fixed duration/op-count.
 - [arjunsk/intervalst](https://github.com/arjunsk/intervalst) - Go implementation of Interval Search Tree.
 
