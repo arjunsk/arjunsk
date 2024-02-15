@@ -4,7 +4,6 @@ I am currently learning about `Txn`.
 
 #### &nbsp; 🍭 Recent projects I'm working on
 - [matrixorigin/matrixone](https://github.com/arjunsk/matrixone) - A hyper-converged cloud native DBMS
-- [arjunsk/col-lsm](https://github.com/arjunsk/col-lsm) - columnar LSM engine
 
 #### &nbsp; 📚 Go Libraries
 - [arjunsk/kmeans](https://github.com/arjunsk/kmeans) - Go library implementing Kmeans, Kmeans++, Elkan's Kmeans algorithm
