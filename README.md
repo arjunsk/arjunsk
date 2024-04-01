@@ -1,6 +1,6 @@
 ### 👋 &nbsp; Hi, I am Arjun
 
-I am currently learning about `Txn`.
+I am currently learning about `JOIN`.
 
 #### &nbsp; 🍭 Recent projects I'm working on
 - [matrixorigin/matrixone](https://github.com/arjunsk/matrixone) - A hyper-converged cloud native DBMS
