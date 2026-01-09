@@ -1,4 +1,4 @@
-### 👋 &nbsp; Hi, I am Arjun
+### 👋 &nbsp; Hi
 
 I am currently learning about `CMake`.
 
