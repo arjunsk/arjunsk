@@ -1,8 +1,8 @@
 ### 👋 &nbsp; Hi
 
-I am currently learning about `CMake`.
+I am currently learning about `BTree`.
 
-#### &nbsp; 🍭 Recent projects I'm working on
+#### &nbsp; 🍭 DB Projects
 - [matrixorigin/matrixone](https://github.com/arjunsk/matrixone) - A hyper-converged cloud native DBMS
 
 #### &nbsp; 📚 Go Libraries
